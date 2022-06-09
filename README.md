@@ -1,2 +1,2 @@
-# sistem-pakar-metode-forward-chaining
-pakarakhir
+# sistem pakar metode forward chaining
+
